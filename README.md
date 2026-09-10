@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Arthur Felipe, tenho 18 anos e moro em Florianopolis- SC. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISUL. Sou apaixonado por tecnologia, curioso sobre Hardware.
+Me chamo Arthur Felipe, tenho 18 anos e moro em Florianopolis- SC. Atualmente curso Análise e Desenvolvimento de Sistemas na UNISUL.  Sou apaixonado por tecnologia, curioso sobre Hardware.
  
 #
 
