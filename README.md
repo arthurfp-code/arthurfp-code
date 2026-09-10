@@ -31,6 +31,14 @@ Me chamo Arthur Felipe, tenho 18 anos e moro em Florianopolis- SC. Atualmente cu
 />
 <img 
     align="left" 
+    alt="GIT"
+    title="GIT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+<img 
+    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
